@@ -231,7 +231,7 @@ button:hover, button:focus, .button:hover, .button:focus {
 	background-size:cover;
 	background-repeat: no-repeat;
 }
-#easca_text{
+#easca_text,#linucs_text{
 	position: relative;
 	top:-10px;
 	color:white;
